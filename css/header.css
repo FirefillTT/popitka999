@@ -1,0 +1,20 @@
+
+.header__container{
+	font-size: 20px;
+	font-weight: 800;
+    opacity: 0.7;
+    height: 20px;
+}
+.header{
+    background-color: black;
+    padding: 20px;
+    font-size: 50px;
+    opacity: 0.9;
+    box-shadow: 0 0 20px black;
+}
+.center{
+    color: #6bd31a;
+    padding: 0;
+    margin: auto;
+    font-family: 'Pacifico', cursive;
+}
