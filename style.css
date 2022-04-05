@@ -118,6 +118,7 @@ button{
     text-decoration:none;
     font-family: 'Rubik Wet Paint', cursive;
     cursor: pointer;
+    Color: black;
     
 }
 button.text:active,
@@ -247,4 +248,5 @@ a{
     height: auto;
     margin: 0;
     padding: 0;
+    Text-decoration: none;
 }
