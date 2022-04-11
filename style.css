@@ -136,12 +136,10 @@ button.text {
     height: 106px;
 }
 .lol:hover{
-    width: 230px; 
-   height: 360px;
+    transform: scale(1.1);
 }
 button:hover{
-    width: 140px;
-    height: 60px;
+    transform: scale(1.1);
     background-color: black;
     color: white;
 
@@ -234,14 +232,7 @@ h5{
     margin-bottom: 5px;
 }
 .lol2:hover{
-    width: 220px; 
-    height: 270px;
-}
-.lol2:hover .niz {
-    margin-bottom: 30px;
-}
-.niz{
-    transition: 1s;
+    transform: scale(1.1);
 }
 a{
     width: auto;
